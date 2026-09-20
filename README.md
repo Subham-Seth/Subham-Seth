@@ -1,23 +1,3 @@
-## Hi there 👋
-
-<!--
-**Subham-Seth/Subham-Seth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-## 🐍 My Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/Subham-Seth/Subham-Seth/output/github-contribution-grid-snake.svg)
-
 # Hey there! 👋 I'm Subham Seth
 
 ### 💻 CSE Student | Full-Stack Developer | Generative AI Enthusiast
@@ -121,3 +101,4 @@ DSA                 █████████░  90%
 Web Development     █████████░  90%
 Generative AI       ███████░░░  70%
 Backend Development  ███████░░░  70%
+```

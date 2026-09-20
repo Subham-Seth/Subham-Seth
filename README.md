@@ -1,5 +1,9 @@
 # Hey there! 👋 I'm Subham Seth
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Subham-Seth/Subham-Seth/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+</p>
+
 ### 💻 CSE Student | Full-Stack Developer | Generative AI Enthusiast
 
 I’m a Computer Science Engineering student who enjoys building web applications, solving DSA problems, and exploring how AI can be integrated into real-world software.
@@ -82,14 +86,6 @@ An AI-powered project that allows users to interact with databases using natural
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Subham-Seth&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subham-Seth&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Subham-Seth/Subham-Seth/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 </p>
 
 ---
